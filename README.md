@@ -30,6 +30,6 @@ Hi there! I'm **Muhammad Atif**. I’m an IT professional passionate about **dat
 
 I enjoy working with data, building reliable solutions, and turning raw information into meaningful insights.
 
-Let's stay in touch! Feel free to connect with me!
+## 🔗 Connect with Me
 
-[![LinkedIn]((https://www.linkedin.com/in/muhammadatifaslam/)](https://www.linkedin.com/in/muhammadatifaslam/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Atif-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadatifaslam/)
