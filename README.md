@@ -32,4 +32,4 @@ I enjoy working with data, building reliable solutions, and turning raw informat
 
 Let's stay in touch! Feel free to connect with me!
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/muhammadatifaslam/))
+[![LinkedIn]((https://www.linkedin.com/in/muhammadatifaslam/)](https://www.linkedin.com/in/muhammadatifaslam/))
